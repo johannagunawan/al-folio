@@ -17,10 +17,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Johanna, a PhD student at Northeastern University. Before that, I was wrote docs for [Rapid7](https://www.rapid7.com/) and [Akamai Technologies](https://www.akamai.com/). 
+Hi! I'm Johanna, a PhD student at Northeastern University. Before that, I wrote docs for [Rapid7](https://www.rapid7.com/) and [Akamai Technologies](https://www.akamai.com/), and graduated from the [ALIGN program](https://www.khoury.northeastern.edu/programs/align-masters-of-science-in-computer-science/) with my M.S. in Cybersecurity. Before _that_, I studied resilience and Japanese politics with [Daniel P. Aldrich](http://daldrich.weebly.com/).  
 
-My research is firmly interdisciplinary, spanning privacy, consumer protections, law, and policy. I'm incredibly lucky to be advised by David Choffnes, Woodrow Hartzog, Alan Mislove, and Christo Wilson. 
+My research is firmly interdisciplinary, spanning privacy, consumer protections, law, and policy. At present, I'm focusing on [dark patterns](https://www.darkpatterns.org/) and manipulative interfaces that erode user privacy, in the hopes of contributing to better regulation of these practices. I'm incredibly lucky to be advised by David Choffnes, Woodrow Hartzog, Alan Mislove, and Christo Wilson. I'm big on representation and fairness in technology, especially for closing the gender gap and getting non-Asian PoC into tech job pipelines.
 
-Outside of research, I'm busy chasing after two dope cats, trying (and failing) new recipes, and deep-diving into weird topics (ask me about the 1996 Mt. Everest disaster).
+Outside of work, I'm busy chasing after two dope cats, trying (and failing) new recipes, and deep-diving into weird topics (ask me about the 1996 Mt. Everest disaster).
 
 
