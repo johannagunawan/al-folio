@@ -7,8 +7,8 @@ description: <a href="https://www.khoury.northeastern.edu/">Northeastern Univers
 profile:
   align: right
   image: prof_pic.jpg
- address: >
-    <p>gunawan.jo@northeastern.edu</p>
+# address: >
+#    <p>gunawan.jo@northeastern.edu</p>
 #    <p>123 your address street</p>
 #    <p>Your City, State 12345</p>
 
