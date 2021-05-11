@@ -1,18 +1,20 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Choffnes":
+  - firstname: ["David", "D."]
+    url: https://david.choffnes.com/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Hartzog":
+  - firstname: ["Woodrow", "W."]
+    url: https://law.northeastern.edu/faculty/hartzog/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Wilson":
+  - firstname: ["Christo", "C."]
+    url: https://cbw.sh/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Mislove":
+  - firstname: ["Alan", "A."]
+    url: https://mislove.org/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Chery":
+   - firstname: ["Jonathan", "J."]
+   
+
