@@ -69,7 +69,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # -----------------------------------------------------------------------------
 
 blog_name: technical difficulties  # your blog must have a name for it to show up in the nav bar
-blog_description: i had internet complaints so i applied for a job in it
+blog_description: lamentations on the state of the internet, and other things
 permalink: /blog/:year/:title/
 
 # Pagination
