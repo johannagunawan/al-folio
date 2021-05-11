@@ -68,8 +68,8 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: johanna gunawan  # your blog must have a name for it to show up in the nav bar
-blog_description: phd student at northeastern university
+blog_name: technical difficulties  # your blog must have a name for it to show up in the nav bar
+blog_description: i had internet complaints so i applied for a job in it
 permalink: /blog/:year/:title/
 
 # Pagination
