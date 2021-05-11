@@ -21,6 +21,6 @@ Hi! I'm Johanna, a PhD student at Northeastern University. Before that, I wrote 
 
 My research is firmly interdisciplinary, spanning privacy, consumer protections, law, and policy. At present, I'm focusing on [dark patterns](https://www.darkpatterns.org/) and manipulative interfaces that erode user privacy, in the hopes of contributing to better regulation of these practices. I'm incredibly lucky to be advised by David Choffnes, Woodrow Hartzog, Alan Mislove, and Christo Wilson. I'm big on representation and fairness in technology, especially for closing the gender gap and getting non-Asian PoC into tech job pipelines.
 
-Outside of work, I'm busy chasing after two dope cats, trying (and failing) new recipes, and deep-diving into weird topics (ask me about the 1996 Mt. Everest disaster).
+🖖 Outside of work, I'm busy chasing after two dope cats 🐱, trying (and failing) new recipes, and deep-diving into weird topics (ask me about the 1996 Mt. Everest disaster 🏔)!
 
 
