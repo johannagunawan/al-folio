@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-description: <a href="https://www.khoury.northeastern.edu/">Northeastern University</a>, <a href="https://cyber.khoury.northeastern.edu/">Cybersecurity and Privacy Institute</a>. gunawan.jo@northeastern.edu
+description: <a href="https://www.khoury.northeastern.edu/">Northeastern University</a>, <a href="https://cyber.khoury.northeastern.edu/">Cybersecurity and Privacy Institute</a>. 
 
 profile:
   align: right
   image: prof_pic.jpg
-# address: >
-#    <p>555 your office number</p>
+ address: >
+    <p>gunawan.jo@northeastern.edu</p>
 #    <p>123 your address street</p>
 #    <p>Your City, State 12345</p>
 
